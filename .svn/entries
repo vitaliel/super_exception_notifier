@@ -1,0 +1,61 @@
+8
+
+dir
+14
+http://super-exception-notifier.googlecode.com/svn/trunk/super_exception_notifier
+http://super-exception-notifier.googlecode.com/svn
+
+
+
+2008-08-11T17:22:29.624301Z
+14
+peter.boling
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3692a090-ed49-0410-a442-c37f1f614806
+
+test
+dir
+
+init.rb
+file
+
+
+
+
+2009-04-15T20:27:58.625000Z
+d68a35cf6df012c7fd6562da6355a201
+2008-04-03T01:17:26.466585Z
+2
+peter.boling
+
+lib
+dir
+
+views
+dir
+
+README
+file
+
+
+
+
+2009-04-15T20:27:58.640625Z
+8bbe674cd7e21747139c06058c4fa5d7
+2008-08-11T17:22:29.624301Z
+14
+peter.boling
+
